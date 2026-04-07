@@ -1,70 +1,90 @@
-<h1 align="center">Hi 👋, I'm Hardik Srivastava</h1>
-<h3 align="center">🚀 MERN Stack Developer | DSA in C++ | Building Scalable Web Apps</h3>
+<h1 align="center">Hey 👋, I'm Hardik Srivastava</h1>
+<h3 align="center">🚀 MERN Stack Developer | 💡 Problem Solver | ⚡ Building Scalable Web Apps</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
+</p>
 
 ---
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 👨‍💻 About Me
-- 💻 Frontend & MERN Stack Developer  
-- 🧠 Strong in Data Structures & Algorithms (C++)  
-- 🔥 Solved 150+ DSA problems  
-- 🌱 Currently learning **System Design & Backend Scaling**  
-- 🎯 Goal: Become a Software Engineer  
+- 💻 MERN Stack Developer with strong DSA (C++) foundation  
+- 🔥 Solved **150+ DSA problems**  
+- 🧠 Currently learning **System Design & Backend Scaling**  
+- ⚡ Love building **real-world, scalable applications**  
+- 🎯 Goal: Crack top tech internships  
 
 ---
 
 ### 🛠️ Tech Stack
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,html,css,tailwind,git" />
-</p>
-
----
-
-### 🚀 Projects
-🔹 **Notes App**  
-- React + Tailwind  
-- CRUD functionality with local storage  
-- 🔗 Live: [Add Link]  
-- 💻 Code: [Add GitHub Link]  
-
-🔹 **Full Stack App (MERN)**  
-- Authentication + CRUD  
-- REST APIs with Node & Express  
-- 🔗 Live: [Add Link]  
-- 💻 Code: [Add GitHub Link]  
-
-🔹 **[Your Unique Project]**  
-- [Short description]  
-- 🔗 Live: [Add Link]  
-- 💻 Code: [Add GitHub Link]  
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,html,css,tailwind,git,github" />
 </p>
 
 ---
 
-### 🧩 DSA Progress
-- ✅ 150+ Problems Solved  
-- 🧠 Focus: Arrays, Strings, Recursion, Trees  
+### 🚀 Featured Projects
+<table>
+<tr>
+<td width="50%">
+
+### 🔹 Notes App  
+✔️ React + Tailwind  
+✔️ CRUD + Local Storage  
+🔗 [Live Demo](#)  
+💻 [Source Code](#)
+
+</td>
+
+<td width="50%">
+
+### 🔹 MERN Full Stack App  
+✔️ Auth + REST APIs  
+✔️ MongoDB + Express  
+🔗 [Live Demo](#)  
+💻 [Source Code](#)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🧩 DSA Journey
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-150%2B%20Problems-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Problem%20Solving-success?style=for-the-badge" />
+</p>
 
 ---
 
 ### 🌐 Connect With Me
-<p align="left">
-<a href="YOUR_LINKEDIN_URL" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<p align="center">
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/YOUR_USERNAME" target="blank">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
 
 ---
 
-<p align="center">⭐ From Hardik Srivastava</p>
+<p align="center">
+  ⚡ <i>"Consistency beats talent when talent doesn't work hard."</i> ⚡
+</p>

@@ -11,7 +11,7 @@
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 👨‍💻 About Me
-- 💻 MERN Stack Developer with strong DSA (C++) foundation  
+- 💻 MERN Stack Developer with DSA (C++) foundation
 - 🔥 Solved **150+ DSA problems**  
 - 🧠 Currently learning **System Design & Backend Scaling**  
 - ⚡ Love building **real-world, scalable applications**  
@@ -31,21 +31,18 @@
 <tr>
 <td width="50%">
 
-### 🔹 Notes App  
-✔️ React + Tailwind  
-✔️ CRUD + Local Storage  
-🔗 [Live Demo](#)  
-💻 [Source Code](#)
+### 🔹 CampusBite- Campus Cafeteria Online Ordering App
+✔️ React.js
+✔️  Node.js + MongoDB + Express 
+🔗 https://campusbite-1eqe.onrender.com/  
 
 </td>
 
 <td width="50%">
 
-### 🔹 MERN Full Stack App  
-✔️ Auth + REST APIs  
-✔️ MongoDB + Express  
-🔗 [Live Demo](#)  
-💻 [Source Code](#)
+### 🔹 Notes App  
+✔️ React + Tailwind  
+✔️ CRUD + Local Storage  
 
 </td>
 </tr>

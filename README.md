@@ -40,9 +40,10 @@
 
 <td width="50%">
 
-### 🔹 Notes App  
-✔️ React + Tailwind  
-✔️ CRUD + Local Storage  
+### 🔹 Image Gallery App  
+✔️ React.js + Tailwind  
+✔️ Dynamic data fetch from external API  
+✔️ Pagination (Next / Prev)
 
 </td>
 </tr>
